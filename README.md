@@ -39,7 +39,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 #### 🗃️ Scraping de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Coleta de dados web** | Desenvolvimento de scraper em Python (Scrapy) para coleta de dados de produtos. | [Ver Projeto](./projetoscraping) |
+| **Coleta de dados web** | Desenvolvimento de scraper em Python (Scrapy) para coleta de dados de produtos. | [Ver Projeto](./https://github.com/gabriel-tino/projetoscraping) |
  
 #### 🤖 Pipeline e API de Dados
 | Projeto | Descrição | Link |
