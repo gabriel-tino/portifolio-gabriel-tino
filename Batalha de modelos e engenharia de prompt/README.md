@@ -55,5 +55,4 @@ O experimento revelou diferenças expressivas entre os modelos para o mesmo prom
 *Figura 3: Exemplo de página HTML gerada a partir do prompt XML pelo modelo Claude.*
 
 ---
-
-https://github.com/gabriel-tino/projetoscraping
+[Voltar ao início](https://github.com/gabriel-tino/portifolio-gabriel-tino)
