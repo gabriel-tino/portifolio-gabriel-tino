@@ -19,7 +19,7 @@ Triggers automáticos: O valor total do pedido é recalculado automaticamente a 
 5 Views analíticas prontas para uso: produtos com estoque baixo, produtos próximos ao vencimento (90 dias), resumo de pedidos, validações pendentes e performance de vendas por colaborador.
 Boas práticas aplicadas: Índices estratégicos em colunas de busca frequente, comentários em tabelas e colunas, constraints nomeadas e separação clara de responsabilidades entre entidades.
 
-Mostrar Imagem
+
 Figura 2: Estrutura das views analíticas e triggers automáticos implementados.
 🔧 Como Executar
 
@@ -31,5 +31,4 @@ bashpsql -U seu_usuario -d seu_banco -f schema.sql
 
 As tabelas, índices, triggers e views serão criados automaticamente.
 
-Mostrar Imagem
 Figura 3: Representação visual dos relacionamentos entre as tabelas do sistema.
